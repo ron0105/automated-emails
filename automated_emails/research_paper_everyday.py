@@ -6,7 +6,7 @@ import pandas as pd
 
 
 email = "emailaddress@domain.com"
-password = "ChangedMyPass"
+password = "ChangeMyPass"
 to_addrs = "fnamelname@domain.com"
 
 now = dt.datetime.now()
